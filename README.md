@@ -1,9 +1,11 @@
+```
                                      _    ____ ___ 
  _ __ ___ ___  __ _  __ _  __ _     / \  |  _ \_ _|
 | '__/ __/ __|/ _` |/ _` |/ _` |   / _ \ | |_) | | 
 | |  \__ \__ \ (_| | (_| | (_| |  / ___ \|  __/| | 
 |_|  |___/___/\__,_|\__, |\__, | /_/   \_\_|  |___|
                     |___/ |___/                    
+```
 
 ---
 A minimal rss aggregator API and worker
@@ -130,3 +132,5 @@ $ curl -s -X GET http://localhost:8000/v1/posts \
 ## Disclaimer
 
 this project is not intended for production. This is an educational project intended for me to learn the actions of golang web development. Feel free to to make any suggestion.
+
+Thanks to boot.dev and freecodecamp.org for the knowledge they grew in me
