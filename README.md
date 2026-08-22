@@ -52,7 +52,7 @@ $ goose -version # to check if installed correctly
 
 ## .env.example
 ```txt
-PORT={8080}
+PORT={8000}
 DB_URL={postgres://USERNAME:PASSWORD@localhost:5432/rssagg?sslmode=disable}
 ```
 - copy this to a file named .env
